@@ -1,1 +1,2 @@
-# scrape
+# Python scraper
+Scraping with selenium
